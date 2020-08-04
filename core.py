@@ -11,7 +11,7 @@ def main():
         else:
             res += cur_word
     res = res.replace('.', '啊').replace('-', '吧')
-    print('小哑巴说：', res)
+    print('小智障说：', res)
 
 
 if __name__ == '__main__':
